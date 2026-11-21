@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://expressplumberchaska.com/sitemap.xml
